@@ -59,8 +59,6 @@ Minha missão é dominar a complexidade técnica através de **Clean Code**, **S
 
 ### 📊 Estatísticas de Sistema
 
-### 📊 Estatísticas de Sistema
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqueCastro18&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCastro18&layout=compact&theme=transparent&border_radius=10)
