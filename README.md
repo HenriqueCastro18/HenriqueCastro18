@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Henrique Castro! 👋
 
-<!--
-**HenriqueCastro18/HenriqueCastro18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software no 7º semestre, focado em arquiteturas **Back-end** robustas e escaláveis. Atualmente, desenvolvo projetos aplicando padrões de projeto e tecnologias modernas de IA.
 
-Here are some ideas to get you started:
+### 🛠️ Minha Stack Tecnológica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Back-end:** Python (Django) e C# (.NET Core)[cite: 1].
+*   **Arquitetura:** Clean Code, SOLID e Design Patterns (Singleton, Strategy, Repository)[cite: 1].
+*   **Dados & Segurança:** PostgreSQL, MySQL e conformidade com a LGPD[cite: 1].
+*   **Outros:** Docker, IoT (ESP32/MicroPython) e integração com IA Generativa[cite: 1].
+
+### 🚀 Projetos em Destaque
+
+*   **Smarko Security (TFC):** Autenticação defensiva com MFA e foco em LGPD[cite: 1].
+*   **Dieta Fácil:** Ecossistema de saúde gamificado com IA Gemini e Groq[cite: 1].
+*   **Arena-RPG:** Motor de combate por turnos com IA preditiva em ASP.NET[cite: 1].
+
+---
+✨ *Estou em busca da minha primeira oportunidade de estágio em Desenvolvimento de Software!*[cite: 1]
