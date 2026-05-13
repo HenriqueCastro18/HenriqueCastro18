@@ -1,77 +1,91 @@
 <div align="center">
-  <h1>🚀 Henrique Castro</h1>
-  <p><strong>Engenheiro de Software em Formação | Especialista em Arquiteturas Back-end & Integração de IA</strong></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ATIVO-brightgreen?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/badge/VERS%C3%83O-3.0-blue?style=for-the-badge" alt="Versão">
-    <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-MOGI%20DAS%20CRUZES-orange?style=for-the-badge" alt="Localização">
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Henrique%20Castro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=8b949e" />
 </div>
 
----
-
-### 🛰️ Scanner de Perfil
-Atualmente no **7º semestre de Engenharia de Software** na UMC, com formatura prevista para **dezembro de 2026**. Meu foco principal é a construção de sistemas invisíveis, mas indestrutíveis, utilizando o poder do **Python** e **C#**. 
-
-Minha missão é dominar a complexidade técnica através de **Clean Code**, **SOLID** e **Design Patterns** (Singleton, Strategy, Repository, Command).
-
----
-
-### 🛠️ Core Tecnológico (Stacks)
+###
 
 <div align="center">
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Back-end & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![.NET](https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **Inteligência Artificial** | ![Gemini](https://img.shields.io/badge/Gemini%202.0-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Groq](https://img.shields.io/badge/Groq%20Inference-f55036?style=flat-square) |
-| **Infra & Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Hardware & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-3C525C?style=flat-square&logo=mqtt&logoColor=white) |
-
-</div>
-
----
-
-### 🧬 Projetos de Elite (Protótipos de Alta Performance)
-
-#### 🛡️ **Smarko-TFC**
-> *Engenharia de Defesa e Governança de Dados*
-*   **Missão:** Ecossistema de automação comercial e gestão de PDV focado em segurança de dados crítica.
-*   **Destaque:** Implementação de arquitetura robusta com criptografia de ponta, MFA e total conformidade com a **LGPD**.
-
-#### 🍎 **Dieta_IA (v3.0)**
-> *Gamificação Biológica com IA Generativa*
-*   **Missão:** Fundir nutrição de precisão com RPG. Integrado com **Gemini 2.0 Flash** e **Groq Inference**.
-*   **Destaque:** Arquitetura gamificada com sistema de XP/Pets, planos de treino inteligentes e segurança defensiva.
-
-#### ⚔️ **Arena-RPG**
-> *Motor de Combate com IA Preditiva*
-*   **Missão:** Motor de combate por turnos em **ASP.NET Core API (.NET 10)** que aprende padrões de jogo.
-*   **Destaque:** Aplicação rigorosa de **Clean Code**, **SOLID** e padrões arquiteturais avançados.
-
-#### 🏗️ **Portifoil 3D**
-> *Visualização de Próxima Geração*
-*   **Missão:** Interface imersiva utilizando a biblioteca **Three.js** para renderização tridimensional (3D .glb).
-*   **Destaque:** Interatividade em tempo real no viewport, elevando a experiência do usuário.
-
----
-
-### 📊 Estatísticas de Sistema
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HenriqueCastro18&show_icons=true&theme=transparent&rank_icon=github&border_radius=10)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCastro18&layout=compact&theme=transparent&border_radius=10)
-
----
-
-### 📡 Transmissão Final
-> *"A busca pelo código perfeito é infinita, mas a arquitetura sólida é o que nos mantém no controle."*
-
-**Estou ativamente buscando minha primeira oportunidade de estágio em Desenvolvimento de Software.** Se você procura um desenvolvedor que respira lógica, eficiência e inovação, vamos conversar!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/henrique-castro-moreira-da-costra-78224a215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/henrique-castro-b13798345/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
+  <a href="https://github.com/HenriqueCastro18" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+FastAPI+%7C+Next.js;C%23+%7C+.NET+%7C+TypeScript;Always+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
+
+###
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+
+  **Backend**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dotnet" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/API%20REST-FF6B35?style=flat-square&logo=fastapi&logoColor=white" height="35" alt="api rest" />
+
+  **Frontend**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwind" />
+
+  **Database & Cloud**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
+
+  **Hardware & IoT**
+
+  <img src="https://img.shields.io/badge/Wokwi-2EA44F?style=flat-square&logo=arduino&logoColor=white" height="35" alt="wokwi" />
+
+</div>
+
+###
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueCastro18&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueCastro18&theme=react&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=Bot-Bi-Nu-Kids" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HenriqueCastro18&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueCastro18&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
 </div>
