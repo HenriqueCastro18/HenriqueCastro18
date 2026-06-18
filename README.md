@@ -1,7 +1,5 @@
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Henrique%20Castro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Back%20End%20Developer&descAlignY=58&descSize=20&descColor=8b949e" />
-
 </div>
 
 ###
@@ -18,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Foco+em+Backend+Java+%2B+Spring+Boot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software;Foco+em+Backend+Java+%2B+Spring+Boot;Buscando+est%C3%A1gio+em+bancos+e+fintechs" alt="Typing SVG" />
 </div>
 
 ###
@@ -97,16 +95,16 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <!-- Card otimizado: ocultando linguagens secundárias e auxiliares para consolidar o Java no topo -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCastro18&theme=dracula&hide_border=true&layout=compact&langs_count=10&count_private=true&hide=python,csharp,typescript,javascript,html,css,kivy,kvlang,shader,markdown,cython" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueCastro18&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCastro18&theme=dracula&hide_border=true&layout=compact&langs_count=10&count_private=true&hide=python,c%23,typescript,javascript,html,css,kivy,kvlang,shader,markdown,cython" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HenriqueCastro18&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=HenriqueCastro18&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueCastro18&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueCastro18&theme=dracula&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ###
